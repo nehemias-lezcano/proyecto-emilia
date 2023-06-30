@@ -1,0 +1,12 @@
+/* font-family: 'Open Sans', sans-serif;
+font-family: 'Raleway', sans-serif;
+font-family: 'Work Sans', sans-serif; */
+
+@import url('https://fonts.googleapis.com/css2?family=Open+Sans:wght@300;400;700&family=Raleway:wght@400;700&family=Work+Sans:wght@200;400;700&display=swap');
+@import './general.css';
+@import './header.css';
+@import './404.css';
+@import './about.css';
+@import './contact.css';
+@import './home.css';
+@import './music.css';
